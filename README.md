@@ -4,6 +4,12 @@ The ESPGateway is a WiFi gateway writtein in python ([MicroPython](micropython.c
 
 ![ESPGateway](https://i.imgur.com/0uO08mE.jpg)
 
+![ESPGateway Schematic](https://i.imgur.com/4cxRBi2.png)
+
+![ESPGateway Layout](https://i.imgur.com/QPV1agT.png)
+
+![ESPGateway 3D](https://i.imgur.com/xQUxpik.png)
+
 ## Acknowledgments
 
 - Jay Carlson
